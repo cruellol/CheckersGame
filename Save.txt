@@ -1,0 +1,10 @@
+Choose:3C
+Choose:3E
+Move:4F
+Choose:6D
+Move:5C
+Choose:3C
+Move:4D
+Choose:5C
+Move:3E
+Move:5G
